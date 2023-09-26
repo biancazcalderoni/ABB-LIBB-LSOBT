@@ -1,0 +1,67 @@
+# depslib dependency file v1.0
+1653558447 source:c:\users\biane\onedrive\escritorio\eda pmi 2\rp2-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	<malloc.h>
+	"ABB.h"
+	"LIBB.h"
+	"LSOBT.h"
+
+1653555056 c:\users\biane\onedrive\escritorio\eda pmi 2\rp2-grupo1\abb.h
+	"Articulo.h"
+
+1653558766 c:\users\biane\onedrive\escritorio\eda pmi 2\rp2-grupo1\articulo.h
+
+1653448977 c:\users\biane\onedrive\escritorio\eda pmi 2\rp2-grupo1\libb.h
+	"Articulo.h"
+
+1653448977 c:\users\biane\onedrive\escritorio\eda pmi 2\rp2-grupo1\lsobt.h
+	"Articulo.h"
+
+1653558447 source:c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 2\entregado\rp2-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	<malloc.h>
+	"ABB.h"
+	"LIBB.h"
+	"LSOBT.h"
+
+1653555056 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 2\entregado\rp2-grupo1\abb.h
+	"Articulo.h"
+
+1653558766 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 2\entregado\rp2-grupo1\articulo.h
+
+1653448977 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 2\entregado\rp2-grupo1\libb.h
+	"Articulo.h"
+
+1653448977 c:\users\santi\google drive (poloswebdesign@gmail.com)\eda\2022\pmi 2\entregado\rp2-grupo1\lsobt.h
+	"Articulo.h"
+
+1653558447 source:h:\mi unidad\eda\2022\pmi 2\entregado\rp2-grupo1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<strings.h>
+	<math.h>
+	<malloc.h>
+	"ABB.h"
+	"LIBB.h"
+	"LSOBT.h"
+
+1653555056 h:\mi unidad\eda\2022\pmi 2\entregado\rp2-grupo1\abb.h
+	"Articulo.h"
+
+1653558766 h:\mi unidad\eda\2022\pmi 2\entregado\rp2-grupo1\articulo.h
+
+1653448977 h:\mi unidad\eda\2022\pmi 2\entregado\rp2-grupo1\libb.h
+	"Articulo.h"
+
+1653448977 h:\mi unidad\eda\2022\pmi 2\entregado\rp2-grupo1\lsobt.h
+	"Articulo.h"
+
